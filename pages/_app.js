@@ -1,10 +1,11 @@
-import '../assets/css/bootstrap.min.css';
-import '../assets/css/animate.min.css';
-import '../assets/css/icofont.min.css';
-import '../assets/css/pe-icon-7-stroke.css';
+// import '../assets/css/bootstrap.min.css';
+// import '../assets/css/animate.min.css';
+// import '../assets/css/icofont.min.css';
+// import '../assets/css/pe-icon-7-stroke.css';
 import '../node_modules/react-modal-video/css/modal-video.min.css';
 import 'react-accessible-accordion/dist/fancy-example.css';
 import 'react-image-lightbox/style.css';
+
 import '../assets/css/style.css';
 import '../assets/css/responsive.css';
 

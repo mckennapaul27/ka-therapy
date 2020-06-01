@@ -988,7 +988,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* WEBPACK VAR INJECTION */(f
 
 /***/ }),
 
-/***/ 12:
+/***/ 9:
 /*!*****************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fservices&absolutePagePath=%2FUsers%2Fuser1%2FDocuments%2Fdevelopment%2Fkatherapy%2Fpages%2Fservices.js ***!
   \*****************************************************************************************************************************************************/
@@ -1011,4 +1011,4 @@ eval("module.exports = dll_bce28103ad6dcff199d1;//# sourceURL=[module]\n//# sour
 
 /***/ })
 
-},[[12,"static/runtime/webpack.js"]]]);
+},[[9,"static/runtime/webpack.js"]]]);

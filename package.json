@@ -1,7 +1,7 @@
 {
-    "name": "trynext-react",
+    "name": "ka-therapy",
     "version": "1.0.0",
-    "description": "TryNext - React Next Multipurpose Digital Agency Portfolio Template",
+    "description": "KA-Therapy",
     "main": "index.js",
     "scripts": {
         "dev": "next",
@@ -9,6 +9,10 @@
         "start": "next start",
         "export": "next export"
     },
+    "engines": {
+        "npm": "6.14.4",
+        "node": "12.16.3"
+      },
     "author": "EnvyTheme.com",
     "license": "ISC",
     "dependencies": {

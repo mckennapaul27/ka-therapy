@@ -15,8 +15,8 @@ class MyDocument extends Document {
                     <link rel='icon' type='image/png' href={require('../images/favicon.png')}></link>
                     <link rel='stylesheet' type='text/css' href='/animate.min.css'/>
                     <link rel='stylesheet' type='text/css' href='/bootstrap.min.css'/>
-                    <link rel='stylesheet' type='text/css' href='/icofont.min.css'/>
-                    <link rel='stylesheet' type='text/css' href='/pe-icon-7-stroke.css'/>
+                    {/* <link rel='stylesheet' type='text/css' href='/icofont.min.css'/>
+                    <link rel='stylesheet' type='text/css' href='/pe-icon-7-stroke.css'/> */}
                 </Head>
                 <body>
                     <Main />

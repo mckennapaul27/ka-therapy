@@ -41,8 +41,8 @@ class NavbarTwo extends Component {
                         <div className='container'>
                             <Link href='/'>
                                 <a className='navbar-brand'>
-                                    <img src={require('../images/logo-black-transparent.png')} className='black-logo' alt='logo' style={{ maxWidth: '150px' }} />
-                                    <img src={require('../images/logo-white-transparent.png')} className='white-logo' alt='logo' style={{ maxWidth: '150px' }}  />
+                                    <img src={require('../images/logo-black-transparent.png')} className='black-logo' alt='logo' style={{ maxWidth: '175px' }} />
+                                    <img src={require('../images/logo-white-transparent.png')} className='white-logo' alt='logo' style={{ maxWidth: '175px' }}  />
                                 </a>
                             </Link>
 

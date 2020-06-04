@@ -9,7 +9,7 @@ class PrivacyPolicy extends Component {
     return (
       <React.Fragment>
         <NavbarTwo />
-        <PageBanner pageTitle="Terms &amp; Conditions" pageImg={CalmingBlue} />
+        <PageBanner pageTitle="Privacy Policy" pageImg={CalmingBlue} />
         <div class="text-container ptb-100">
           <div class="container">
             <h4>Privacy Policy</h4>

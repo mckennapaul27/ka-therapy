@@ -63,8 +63,13 @@ class Footer extends Component {
                                         </Link>
                                     </li> */}
                                     <li>
-                                        <Link href='/services'>
-                                            <a>Services</a>
+                                        <Link href='/cbt'>
+                                            <a>CBT</a>
+                                        </Link>
+                                    </li>
+                                    <li>
+                                        <Link href='/disorders'>
+                                            <a>Disorders</a>
                                         </Link>
                                     </li>
                                     <li>
@@ -112,8 +117,13 @@ class Footer extends Component {
                                         </Link>
                                     </li>
                                     <li>
+                                        <Link href='/complaints'>
+                                            <a>Complaints Policy</a>
+                                        </Link>
+                                    </li>
+                                    <li>
                                         <Link href='/terms-conditions'>
-                                            <a>Terms & Conditions</a>
+                                            <a>Terms &amp; Conditions</a>
                                         </Link>
                                     </li>
                                 </ul>
@@ -125,11 +135,11 @@ class Footer extends Component {
                                 <h3>Get in Touch</h3>
 
                                 <ul className='get-in-touch'>
-                                    <li><i className='icofont-home'></i> Manchester UK.</li>
+                                    <li><i className='icofont-home'></i> Manchester</li>
                                     <li></li>
                                     <li></li>
-                                    <li><i className='icofont-live-support'></i> +447895008966</li>
-                                    <li><i className='icofont-envelope'></i> kelly@ka-therapy.co.uk</li>
+                                    <li><i className='icofont-live-support'></i> 07432 233978</li>
+                                    <li><i className='icofont-envelope'></i> info@ka-therapy.co.uk</li>
                                 </ul>
                             </div>
                         </div>

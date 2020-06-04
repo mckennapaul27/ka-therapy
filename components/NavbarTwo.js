@@ -69,8 +69,32 @@ class NavbarTwo extends Component {
                                         </Link>
                                     </li>
                                     <li className='nav-item'>
-                                        <Link href='/services' activeClassName='active'>
-                                            <a className='nav-link'>What We Offer</a>
+                                        
+                                        <a className='nav-link'>
+                                            What We Offer <i className='icofont-thin-down'></i>
+                                        </a>
+                                        <ul className='dropdown-menu'>
+                                            <li className='nav-item'>
+                                                <Link href='/one-to-one-therapy' activeClassName='active'>
+                                                    <a className='nav-link'>One-to-One Therapy</a>
+                                                </Link>
+                                            </li>
+
+                                            <li className='nav-item'>
+                                                <Link href='/online-therapy' activeClassName='active'>
+                                                    <a className='nav-link'>Online Therapy</a>
+                                                </Link>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li className='nav-item'>
+                                        <Link href='/cbt' activeClassName='active'>
+                                            <a className='nav-link'>CBT</a>
+                                        </Link>
+                                    </li>
+                                    <li className='nav-item'>
+                                        <Link href='/disorders' activeClassName='active'>
+                                            <a className='nav-link'>Disorders</a>
                                         </Link>
                                     </li>
                                     <li className='nav-item'>

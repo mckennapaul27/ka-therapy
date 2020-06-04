@@ -60,24 +60,24 @@ const services = [
 
 const treatments = [
     {
-        title: 'Depression and low mood',
+        title: 'Depression & Low Mood',
         img: depression,
-        desc: 'Depression is a debilitating mental health illness which has a devastating impact upon social connectedness, occupational functioning and overall decreases the quality of life of those who suffer from it.  Whilst depression is characterised by a range of symptoms which may include; difficulties concentrating, inability to make decisions, guilt, feelings of worthlessness, hopelessness and fatigue.   Depression, fear, and anxiety are some of the most common and uncomfortable emotions that we can experience at some point in our lives. Through CBT, we are able to help you recover motivation, perspective, and joy that you once had in your life.  '
+        desc: 'Depression often decreases the quality of life you live. The common symptoms of depression are; sadness, anxiety, panicky, more tired than usual or unable to sleep, angry or frustrated, not getting enjoyment out of life, feeling hopeless or worthless, guilt, not being able to concentrate on everyday things, having suicidal thoughts or thoughts about harming yourself. You may experience some or all of these symptoms. Depression is a common mental health problem which we can all experience at some point throughout our lives. Working with your therapist will allow you to improve your motivation and gain a better quality of life.'
     },
     {
         title: 'Anxiety Disorder',
         img: anxiety,
-        desc: 'Anxiety can impact a large proportion of the population and is characterised by both uncontrollable racing thoughts along with physiological symptoms such as dizziness, palpitations, panic attacks, sweating, shaking and nausea.  Anxiety can occur in many different forms; CBT can help you to face your fears and deal with problems head on by breaking them in to small manageable chunks.  CBT encourages us to break negative cycles of behaviours that are often responsible for keeping the anxiety going.'
+        desc: 'Anxiety can be experienced in many different ways. The common symptoms of anxiety disorders are; uncontrollable racing thoughts, uncontrollable worries, extreme fear triggered by social situations, fear triggered by specific objects, dizziness, sweating, shaking, nausea, palpitations and panic attacks. Anxiety commonly occurs alongside other mental health problems but also by itself. CBT looks at the negative cycles of thoughts and behaviours you may be stuck in which often keeps the anxiety going. You and your therapist will break down your problems allowing an improvement in your anxiety symptoms.'
     },
     {
         title: 'Obsessive Compulsive Disorder (OCD)',
         img: ocd,
-        desc: 'OCD is characterised by persistent and unwanted intrusions, which appear to the individual as a thought, doubt or image which provokes distress, this leads to compulsions which are repetitive and ritualistic behaviours carried out by the individual to neutralise the distress attached to the obsession.  There are several subtypes of OCD including: Checking Contamination Symmetry and ordering Ruminations / Intrusive Thoughts, Hoarding. CBT can help us to make sense of the meaning behind these intrusions, and understand the distress attached to them.  Additionally, CBT can help us to find alternative evidence against the usefulness of our previous habits and behaviours.'
+        desc: 'OCD is a common mental health condition The common symptoms are; obsessive thoughts, compulsive behaviours and unwanted intrusions. Unwanted intrusions can appear as a thought or image which causes distress further leading to the unwanted obsessive thoughts, further leading to the neutralising behaviour to reduce the distress attached to the intrusion. OCD can affect men, women and children, symptoms often start around puberty or early adulthood but not always. CBT will allow you to understand your intrusions and the distress attached. You and your therapist will look at your obsessive compulsive thoughts and behaviours and find alternative evidence allowing for an improvement of your OCD.'
     },
     {
-        title: 'Trauma and PTSD',
+        title: 'Trauma & Post-Traumatic Stress Disorder (PTSD)',
         img: trauma,
-        desc: 'Trauma is defined as an event which causes a psychological or emotional response to a situation or experience that is extremely distressing or disturbing, this can be as a result of losing someone close, marriage breakdown, illness or injury.  Post-traumatic Stress Disorder tends to occur when the individual relives the trauma and feels like the incident is still a current threat, the reliving can occur through flashbacks or nightmares and may lead to feelings of isolation, fear, irritability and guilt.  PTSD can also result in difficulties sleeping. CBT allows us to make sense of our traumatic memories in a safe environment, this in turn allows the memory to be process successfully and the reducing the distress and impact on day-to-day life. '
+        desc: 'Any situation which a person finds traumatic can cause PTSD, a few examples are; road accidents, an assault, marriage breakdown, illness/injury or childbirth. The traumatic event causes a psychological or emotional response to the situation. The common symptoms are; reliving the trauma, feeling like the incident is a current threat, experiencing nightmares or flashbacks, difficulty sleeping, fear, isolation, anger and frustration. CBT is recommended by NICE Guidance for the treatment of trauma and PTSD. You and your therapist will explore the traumatic memories allowing for them to be processed, reducing distress and further allowing an improvement of your quality of life.'
     },
     {
         title: 'Low-Self Esteem',

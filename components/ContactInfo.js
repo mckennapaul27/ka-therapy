@@ -17,7 +17,7 @@ class ContactInfo extends Component {
                                     <i className="pe-7s-mail"></i>
                                 </div>
                                 <h3>Mail</h3>
-                                <p>kelly@ka-therapy.co.uk</p>
+                                <p>info@ka-therapy.co.uk</p>
                             </div>
                         </div>
 
@@ -27,7 +27,7 @@ class ContactInfo extends Component {
                                     <i className="pe-7s-map-2"></i>
                                 </div>
                                 <h3>My Clinic</h3>
-                                <p>Manchester, M22 4GT</p>
+                                <p>Manchester</p>
                             </div>
                         </div>
 
@@ -37,7 +37,7 @@ class ContactInfo extends Component {
                                     <i className="pe-7s-call"></i>
                                 </div>
                                 <h3>Call Here</h3>
-                                <p>+44 7895008966</p>
+                                <p>07432 233978</p>
                             </div>
                         </div>
                     </div>

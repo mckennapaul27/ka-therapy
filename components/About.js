@@ -16,41 +16,29 @@ class About extends Component {
                         <div className="col-lg-7 col-md-12">
                             <div className="about-content about-content-two">
                                 <div className="section-title">
-                                    <h2>About</h2>
-                                    <p>Lorem ipsum dolor sit amet, con se ctetur adipiscing elit. In sagittis eg esta ante, sed viverra nunc tinci dunt nec elei fend et tiram.</p>
+                                    <h2>A Warm Welcome</h2>
+                                    <p>KA-Therapy offers Cognitive Behavioural Psychotherapy, an evidence-based psychotherapy to help you improve your psychological wellbeing. Therapies are delivered in a quiet, private and comfortable environment, providing a safe therapeutic space to explore your difficulties. </p>
                                 </div>
 
                                 <div className="about-text">
-                                    <h4>Who We Are</h4>
-                                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                                   
                                 </div>
 
-                                <div className="about-text">
-                                    <h4>Our Success</h4>
-                                    <ul>
-                                        <li>
-                                            <i className="pe-7s-check"></i> 
-                                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                        </li>
-                                        <li>
-                                            <i className="pe-7s-check"></i> 
-                                            It is a long established fact that a reader will be distracted by the readable.
-                                        </li>
-                                        <li>
-                                            <i className="pe-7s-check"></i> 
-                                            Contrary to popular belief, Lorem Ipsum is not simply random text.
-                                        </li>
-                                        <li>
-                                            <i className="pe-7s-check"></i> 
-                                            Contrary to popular belief, Lorem Ipsum is not simply random text.
-                                        </li>
-                                    </ul>
-                                </div>
+                                
 
                                 <div className="about-text">
-                                    <h4>Our Mission</h4>
-                                    <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>
+                                    <h4>My Experience</h4>
+                                    <p>I possess a warm, empathetic and supportive style which compliments my clinical expertise which I have developed over a number of years working in a variety of different roles of helping others to improve their wellbeing. I am an NMC registered Mental Health Nurse still in practice, alongside practising as a Cognitive Behavioural Psychotherapist. </p>
                                 </div>
+                                <div className="about-text">
+                                    <p>I have worked in a variety of different settings including; HMP Prison services, Criminal Justice, Drug & Alcohol Services, Secure Hospitals, Community Mental Health Services, Learning Disabilities, General Hospitals and Rehabilitation Centres. My passion is working with people; helping individuals to overcome their difficulties and work towards their personal goals. </p>
+                                </div>
+                                <div className="about-text">
+                                    <p>KA-Therapy offers services in Manchester City Centre, Stockport, Wilmslow and surrounding areas.</p>
+                                </div>
+                                <Link href='/about'>
+                                    <a className='btn btn-primary'>Read more</a>
+                                </Link>
                             </div>
                         </div>
                     </div>

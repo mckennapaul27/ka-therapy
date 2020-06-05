@@ -79,16 +79,16 @@ const treatments = [
         img: trauma,
         desc: 'Any situation which a person finds traumatic can cause PTSD, a few examples are; road accidents, an assault, marriage breakdown, illness/injury or childbirth. The traumatic event causes a psychological or emotional response to the situation. The common symptoms are; reliving the trauma, feeling like the incident is a current threat, experiencing nightmares or flashbacks, difficulty sleeping, fear, isolation, anger and frustration. CBT is recommended by NICE Guidance for the treatment of trauma and PTSD. You and your therapist will explore the traumatic memories allowing for them to be processed, reducing distress and further allowing an improvement of your quality of life.'
     },
-    {
-        title: 'Low-Self Esteem',
-        img: selfEsteem2,
-        desc: 'Low self-esteem is a recurrent thought of oneself as unlovable or inadequate.  This leads to reduced confidence and if it continues over a long period of time it can be detrimental impact on our mental health and day-to-day function.  Low self-esteem often begins in childhood.  Our friends, siblings, parents, teachers and social media send us both positive and negative messages about ourselves. CBT helps us to challenge these unhelpful thinking patterns using cognitive restructuring, activating self-care strategies  and self-compassion.  CBT also encourages us to challenge unhelpful coping strategies and self-critical thinking.'
-    },
-    {
-        title: 'Addiction',
-        img: addiction,
-        desc: 'Addiction effects 1 in 3 people, it can be explained as not having control over doing something or taking something to the point that it could be harmful to your health.  Addictions can start by a substance or activity giving heightened feelings both physically and mentally which leaves the individual having powerful urges to do the activity again or take the substance again.  Addiction  means that by not having, or not engaging with the activity can cause withdrawal symptoms.  Because this can be unpleasant and often painful it becomes easier to carry on having or doing what you crave, and so the cycle is maintained. CBT aims to address the underlying beliefs and negative thought cycles which have led to the addictive behaviour, helping individuals to make connections between their thoughts, feelings and behaviours.  Addictive behaviours can often be viewed as coping strategies, CBT will help to form new more adaptive and helpful behaviours.'
-    },
+    // {
+    //     title: 'Low-Self Esteem',
+    //     img: selfEsteem2,
+    //     desc: 'Low self-esteem is a recurrent thought of oneself as unlovable or inadequate.  This leads to reduced confidence and if it continues over a long period of time it can be detrimental impact on our mental health and day-to-day function.  Low self-esteem often begins in childhood.  Our friends, siblings, parents, teachers and social media send us both positive and negative messages about ourselves. CBT helps us to challenge these unhelpful thinking patterns using cognitive restructuring, activating self-care strategies  and self-compassion.  CBT also encourages us to challenge unhelpful coping strategies and self-critical thinking.'
+    // },
+    // {
+    //     title: 'Addiction',
+    //     img: addiction,
+    //     desc: 'Addiction effects 1 in 3 people, it can be explained as not having control over doing something or taking something to the point that it could be harmful to your health.  Addictions can start by a substance or activity giving heightened feelings both physically and mentally which leaves the individual having powerful urges to do the activity again or take the substance again.  Addiction  means that by not having, or not engaging with the activity can cause withdrawal symptoms.  Because this can be unpleasant and often painful it becomes easier to carry on having or doing what you crave, and so the cycle is maintained. CBT aims to address the underlying beliefs and negative thought cycles which have led to the addictive behaviour, helping individuals to make connections between their thoughts, feelings and behaviours.  Addictive behaviours can often be viewed as coping strategies, CBT will help to form new more adaptive and helpful behaviours.'
+    // },
     
 
 ]

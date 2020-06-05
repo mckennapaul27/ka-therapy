@@ -26,51 +26,7 @@
     "/_polyfills": [
       "static/runtime/polyfills.js"
     ],
-    "/about": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/blog": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/cbt": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/complaints": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/contact": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/disorders": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
     "/index": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/next/dist/pages/_error": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/one-to-one-therapy": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/online-therapy": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/privacy-policy": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
-    "/terms-conditions": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ]

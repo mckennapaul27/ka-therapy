@@ -20,27 +20,27 @@ class Footer extends Component {
                                     </Link>
                                 </div>
 
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                <p>KA-Therapy offers services in Manchester City Centre, Stockport, Wilmslow and surrounding areas.</p>
 
                                 <ul className='social-links'>
                                     <li>
                                         <Link href='/'>
-                                            <a target='_blank'><i className='icofont-facebook'></i></a>
+                                            <a href='https://www.facebook.com/katherapy20' target='_blank'><i className='icofont-facebook'></i></a>
                                         </Link>
                                     </li>
-                                    <li>
+                                    {/* <li>
                                         <Link href='/'>
-                                            <a target='_blank'><i className='icofont-twitter'></i></a>
+                                            <a  target='_blank'><i className='icofont-twitter'></i></a>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href='/'>
                                             <a target='_blank'><i className='icofont-linkedin'></i></a>
                                         </Link>
-                                    </li>
+                                    </li> */}
                                     <li>
                                         <Link href='/'>
-                                            <a target='_blank'><i className='icofont-instagram'></i></a>
+                                            <a href='https://www.instagram.com/ka_therapy20' target='_blank'><i className='icofont-instagram'></i></a>
                                         </Link>
                                     </li>
                                 </ul>
@@ -138,8 +138,8 @@ class Footer extends Component {
                                     <li><i className='icofont-home'></i> Manchester</li>
                                     <li></li>
                                     <li></li>
-                                    <li><i className='icofont-live-support'></i> 07432 233978</li>
-                                    <li><i className='icofont-envelope'></i> info@ka-therapy.co.uk</li>
+                                    <li><i className='icofont-live-support'></i> <a href='tel:07432 233978'>07432 233978</a></li>
+                                    <li><i className='icofont-envelope'></i> <a href='mailto:info@ka-therapy.co.uk'>info@ka-therapy.co.uk</a></li>
                                 </ul>
                             </div>
                         </div>

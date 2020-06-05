@@ -8,19 +8,14 @@ const dev = process.env.NODE_ENV !== 'production';
 const app = next({ dir: '.', dev });
 const handle = app.getRequestHandler();
 
+const { sendMail } = require('./data/mailer')
+
 app.prepare().then(() => {
     const server = express();
 
     server.use(compression());
 
-    // server.use(function(req, res, next) {
-    //     if(req.headers['x-forwarded-proto'] !== 'https' && process.env.NODE_ENV === 'production') {
-    //       const secureUrl = "https://" + req.headers['host'] + req.url; 
-    //       res.writeHead(301, { "Location":  secureUrl });
-    //       res.end();
-    //     }
-    //     next();
-    // });   
+    server.use(bodyParser.json());
 
     server.get('/sitemap.xml', (req, res) => {
         const sitemap = path.join(__dirname, 'public', 'sitemap.xml')
@@ -30,6 +25,8 @@ app.prepare().then(() => {
     server.use('/images', express.static(path.join(__dirname, 'images'), {
         maxAge: dev ? '0' : '365d'
     }));
+
+    server.post('/api/contact', sendMail);
 
     server.get('*', (req, res) => {
         return handle(req, res)

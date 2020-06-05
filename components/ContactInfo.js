@@ -8,7 +8,7 @@ class ContactInfo extends Component {
                 <div className="container">
                     <div className='section-title'>
                         <h2>Contact</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p>KA-Therapy offers services in Manchester City Centre, Stockport, Wilmslow and surrounding areas. Please contact us below.</p>
                     </div>
                     <div className="row">
                         <div className="col-lg-4 col-md-6">

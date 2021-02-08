@@ -11,7 +11,7 @@ class Blog extends Component {
             <React.Fragment>
                 <NavbarTwo />
                 <PageBanner 
-                    pageTitle='My Blog' 
+                    pageTitle='Testimonials' 
                     pageImg={CalmingBlue} 
                 />  
                 <BlogGridThree />

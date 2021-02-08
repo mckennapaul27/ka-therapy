@@ -103,8 +103,8 @@ class NavbarTwo extends Component {
                                         </Link>
                                     </li>
                                     <li className='nav-item'>
-                                        <Link href='/blog' activeClassName='active'>
-                                            <a className='nav-link'>Blog</a>
+                                        <Link href='/testimonials' activeClassName='active'>
+                                            <a className='nav-link'>Testimonials</a>
                                         </Link>
                                     </li>
                                     {/* <li className='nav-item'>

@@ -47,7 +47,7 @@ class LatestNewsSlider extends Component {
             <section className='blog-area bg-fcfbfb ptb-100'>
                 <div className='container'>
                     <div className='section-title'>
-                        <h2>My Blog</h2>
+                        <h2>Testimonials</h2>
                         <p>Coming soon....</p>
                     </div>
 

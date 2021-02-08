@@ -8,54 +8,54 @@ import selfEsteem2 from '../images/services-self-esteem2.jpg'
 import addiction from '../images/services-addiction.jpg'
 
 const services = [
-    // { 
-    //     title: 'All the Lorem Ipsum generators on the Internet', 
-    //     src: 'calming-tree.jpg', 
-    //     desc: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s' ,
-    //     id: 'CBT',
-    //     date: 'Feb 15, 2020',
-    //     url: '/blog/calming-tree'
-    // },
-    // { 
-    //     title: 'All the Lorem Ipsum generators on the Internet', 
-    //     src: 'calming-boat.jpg', 
-    //     desc: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s' ,
-    //     id: 'CBT',
-    //     date: 'Feb 15, 2020',
-    //     url: '/blog/calming-tree'
-    // },
-    // { 
-    //     title: 'All the Lorem Ipsum generators on the Internet', 
-    //     src: 'calming-girl.jpg', 
-    //     desc: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s' ,
-    //     id: 'CBT',
-    //     date: 'Feb 15, 2020',
-    //     url: '/blog/calming-tree'
-    // },
-    // { 
-    //     title: 'All the Lorem Ipsum generators on the Internet', 
-    //     src: 'calming-tree.jpg', 
-    //     desc: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s' ,
-    //     id: 'CBT',
-    //     date: 'Feb 15, 2020',
-    //     url: '/blog/calming-tree'
-    // },
-    // { 
-    //     title: 'All the Lorem Ipsum generators on the Internet', 
-    //     src: 'calming-boat.jpg', 
-    //     desc: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s' ,
-    //     id: 'CBT',
-    //     date: 'Feb 15, 2020',
-    //     url: '/blog/calming-tree'
-    // },
-    // { 
-    //     title: 'All the Lorem Ipsum generators on the Internet', 
-    //     src: 'calming-girl.jpg', 
-    //     desc: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s' ,
-    //     id: 'CBT',
-    //     date: 'Feb 15, 2020',
-    //     url: '/blog/calming-tree'
-    // }       
+    { 
+        title: 'All the Lorem Ipsum generators on the Internet', 
+        src: 'calming-tree.jpg', 
+        desc: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s' ,
+        id: 'CBT',
+        date: 'Feb 15, 2020',
+        url: '/blog/calming-tree'
+    },
+    { 
+        title: 'All the Lorem Ipsum generators on the Internet', 
+        src: 'calming-boat.jpg', 
+        desc: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s' ,
+        id: 'CBT',
+        date: 'Feb 15, 2020',
+        url: '/blog/calming-tree'
+    },
+    { 
+        title: 'All the Lorem Ipsum generators on the Internet', 
+        src: 'calming-girl.jpg', 
+        desc: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s' ,
+        id: 'CBT',
+        date: 'Feb 15, 2020',
+        url: '/blog/calming-tree'
+    },
+    { 
+        title: 'All the Lorem Ipsum generators on the Internet', 
+        src: 'calming-tree.jpg', 
+        desc: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s' ,
+        id: 'CBT',
+        date: 'Feb 15, 2020',
+        url: '/blog/calming-tree'
+    },
+    { 
+        title: 'All the Lorem Ipsum generators on the Internet', 
+        src: 'calming-boat.jpg', 
+        desc: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s' ,
+        id: 'CBT',
+        date: 'Feb 15, 2020',
+        url: '/blog/calming-tree'
+    },
+    { 
+        title: 'All the Lorem Ipsum generators on the Internet', 
+        src: 'calming-girl.jpg', 
+        desc: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s' ,
+        id: 'CBT',
+        date: 'Feb 15, 2020',
+        url: '/blog/calming-tree'
+    }       
 ]
 
 const treatments = [

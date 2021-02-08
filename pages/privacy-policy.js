@@ -10,8 +10,8 @@ class PrivacyPolicy extends Component {
       <React.Fragment>
         <NavbarTwo />
         <PageBanner pageTitle="Privacy Policy" pageImg={CalmingBlue} />
-        <div class="text-container ptb-100">
-          <div class="container">
+        <div className="text-container ptb-100">
+          <div className="container">
             <h4>Privacy Policy</h4>
             <p><strong>INTRODUCTION</strong></p>
 <p>This privacy notice provides you with details of how we collect and process your personal data through your use of our website: www.ka-therapy.co.uk and our therapy services. If you are not happy with any aspect of how we collect and use your data, you have the right to complain to the Information Commissioner&rsquo;s Office (ICO), the UK supervisory authority for data protection issues (www.ico.org.uk). We would be grateful if you would contact us first if you do have a complaint so that we can try to resolve it for you.</p>

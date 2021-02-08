@@ -11,8 +11,8 @@ export default class OnlineTherapy extends Component {
       <React.Fragment>
         <NavbarTwo />
         <PageBanner pageTitle="Online Therapy" pageImg={CalmingBlue} />
-        <div class="text-container ptb-100">
-          <div class="container">
+        <div className="text-container ptb-100">
+          <div className="container">
             <h3>Online Therapy</h3>
             <p>You can now choose to have your therapy online rather than a face to face basis if you need more flexibility with appointments.</p>
             

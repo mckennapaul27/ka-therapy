@@ -148,6 +148,11 @@ class Footer extends Component {
 
                 <div className='copyright-area'>
                     <div className='container'>
+                        <p>
+                            <a href="https://babcp.com" target='blank'>
+                                <img style={{ maxWidth: '75px' }} src={require('../images/bapcp.png')} alt=""/>
+                            </a>
+                        </p>
                         <p>&copy; Copyright {currentYear} KA-Therapy.co.uk. All Rights Reserved.</p>
                     </div>
                 </div>

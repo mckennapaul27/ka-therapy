@@ -11,8 +11,8 @@ export default class CBT extends Component {
       <React.Fragment>
         <NavbarTwo />
         <PageBanner pageTitle="CBT (Cognitive Behavioral Therapy)" pageImg={CalmingBlue} />
-        <div class="text-container ptb-100">
-          <div class="container">
+        <div className="text-container ptb-100">
+          <div className="container">
             <h3>CBT</h3>
             <p>Cognitive Behavioural Therapy (CBT) is a talking therapy which is evidence-based and proven to help treat a wide range of emotional and physical health conditions. CBT looks at how we think about a situation and how this affects how we act. It further explores how our actions can affect how we think, feel and behave. The therapist and client work collaboratively in changing the clients behaviours and/or their thinking patterns.</p>
             <p>NICE provide independent, evidence-based guidelines for the NHS on the most effective ways to treat disease and ill health.</p>

@@ -12,8 +12,8 @@ class TermsConditions extends Component {
         <NavbarTwo />
         <PageBanner pageTitle="Terms &amp; Conditions" pageImg={CalmingBlue} />
 
-        <div class="text-container ptb-100">
-          <div class="container">
+        <div className="text-container ptb-100">
+          <div className="container">
             <h4>Terms and Conditions</h4>
             <p>Please read these Terms and Conditions carefully before using Services provided by KA-Therapy.</p>
 <ol>

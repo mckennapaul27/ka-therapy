@@ -10,8 +10,8 @@ export default class Complaints extends Component {
       <React.Fragment>
         <NavbarTwo />
         <PageBanner pageTitle="Complaints Policy" pageImg={CalmingBlue} />
-        <div class="text-container ptb-100">
-          <div class="container">
+        <div className="text-container ptb-100">
+          <div className="container">
             <h3>Complaints Policy</h3>
             <p><strong>1.Policy Statement</strong></p>
 <p>At KA-Therapy, we believe that if a customer wishes to file a complaint or express dissatisfaction, it should be easy for them to do so. It is KA-Therapy&rsquo;s policy receive complaints and consider them as an opportunity to learn, adapt, improve and provide better service.</p>

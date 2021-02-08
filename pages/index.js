@@ -14,7 +14,7 @@ class StudioAgency extends Component {
                 <NavbarTwo />
                 <MainBanner />
                 <About />
-                <LatestNewsSlider />
+                {/* <LatestNewsSlider /> (BLOG / TESTIMONIAL SECTION) */}  
                 <ContactInfo />
                 <Footer />
             </React.Fragment>

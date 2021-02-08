@@ -11,8 +11,8 @@ export default class OneToOne extends Component {
       <React.Fragment>
         <NavbarTwo />
         <PageBanner pageTitle="One-to-One Therapy" pageImg={CalmingBlue} />
-        <div class="text-container ptb-100">
-          <div class="container">
+        <div className="text-container ptb-100">
+          <div className="container">
                 <h3>One-to-One Therapy </h3>
                 <p>One to one therapy usually takes place with your therapist once a week or every fortnight. If CBT is recommended a typical course of treatment usually lasts for between 8 and 20 sessions, with each session lasting 50 minutes.</p>
                 <p>Therapy starts with an in-depth assessment which is usually spread over one or two sessions, this allows a shared understanding to be built with your therapist of the development and maintenance of your problem. During the sessions, you will work collaboratively with your therapist to break down your problems into their separate parts; such as your thoughts, physical symptoms, feelings and actions/behaviours. With your therapist you will analyse these areas to work out if they are unrealistic or unhelpful and to determine the effect they have on each other and you. Your therapist will then be able to help you work out how to change unhelpful thoughts and behaviours.</p>
